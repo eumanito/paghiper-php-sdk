@@ -1,5 +1,5 @@
 {
-    "name": "webmasterdro/paghiper-php-sdk",
+    "name": "eumanito/paghiper-php-sdk",
     "description": "Biblioteca de integração PHP PagHiper",
     "keywords": [
         "paghiper"
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Pedro Lima",
-            "email": "pedro-octavio@hotmail.com"
+            "name": "Manito",
+            "email": "eumanito@gmail.com"
         }
     ],
     "require": {
